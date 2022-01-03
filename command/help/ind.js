@@ -22,11 +22,7 @@ exports.ok = () =>{
 	}
 exports.welcome = () =>{
 	return`Jangan Lupa Intro Ya~
-⌯ָ   ֙Nama :
-⌯ָ   ֙Umur :
-⌯ָ   ֙Kelamin :
-⌯ָ   ֙Askot :
-╰─ ᝬ _Patuhi Rules Group Ya_  >_<`
+ᝬ _Patuhi Rules Group Ya_  >_<`
       }
 exports.leave = () =>{
 	return`
